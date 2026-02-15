@@ -20,3 +20,10 @@ We utilized a **Random Forest Classifier** optimized via `GridSearchCV`.
 * **Python** (Pandas, NumPy)
 * **Scikit-Learn** (Random Forest, GridSearchCV)
 * **Visualization** (Seaborn, Matplotlib)
+
+---------------------------------------------------------------------------------------------
+
+# How to use?
+The project is made in google colab. Language: Python
+I have uploaded the whole project, as I think it's easier for use. The dataset is also in a seperat folder if you just want to copy and use the data yourself. 
+Enjoy!
